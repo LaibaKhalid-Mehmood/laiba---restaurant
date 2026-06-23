@@ -1,0 +1,89 @@
+
+h1{
+    background-color:red;
+    padding:15px;
+    border-style:inset;
+    border-color:orange;
+    border-width:5px;
+    border-radius:5px;
+    text-align:center;
+}
+h2{
+    background-color:rgba(255, 166, 0, 0.826);
+}
+#p1{
+    color:white;
+    background-color: orange;
+    text-decoration:underline;
+    font-size:18px;
+}
+#p2{
+    color:white;
+    background-color: orange;
+    text-decoration:underline;
+    font-size:18px;
+}
+#p3{
+     color:white;
+    background-color: orange;
+    text-decoration:underline;
+    font-size:18px;
+}
+body{
+    background-image:url("background.jpeg");
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+    background-position:center;
+    background-size:cover;
+}
+#a1{
+    color:red;
+}
+#a2{
+    color:red;
+}
+#a3{
+    color:red;
+}
+#offer{
+    background-color:red;
+    color:white;
+    width:150px;
+    padding:15px;
+
+    position:fixed;
+    right:20px;
+    bottom:20px;
+}
+table{
+    background-color:red;
+    color:white;
+     width:250px; 
+     margin:50px
+
+}
+th{
+    background-color:red;
+}
+tr{
+    background-color:black;
+    
+}
+td{
+    text-align:center;
+}
+img{
+    margin:40px;
+}
+
+form{
+    background:linear-gradient(to left,brown,pink);
+    border-style:groove;
+    border-color:gold;
+    border-radius:5px;
+    color:black;
+    padding:20px;
+}
+
+
+
